@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World! I'm Yoosuf Ismail<br><br>Passionate Junior Software Developer |<br><br>Creative Problem Solver |<br><br>Lifelong Learner<br><br>I love turning ideas into beautiful interfaces<br><br>Specializing in HTML, CSS, JavaScript, Java and Tailwind CSS<br><br>Leveling up my skills in React, Next.js, and Animations<br><br>Always ready to talk about frontend trends, design systems, and cool UI effects<br><br>Building pixel-perfect, responsive, and delightful user experiences<br><br>Forever a student of design, accessibility, and web performance<br><br>Let's create something awesome together <br><br>LinkedIn:<br><br>Gmail:yoosufismail.it@gmail.com
+Hello World! I'm Yoosuf Ismail<br><br>Passionate Junior Software Developer |<br><br>Creative Problem Solver |<br><br>Lifelong Learner<br><br>I love turning ideas into beautiful interfaces<br><br>Specializing in HTML, CSS, JavaScript, Java and Tailwind CSS<br><br>Leveling up my skills in React, Next.js, and Animations<br><br>Always ready to talk about frontend trends, design systems, and cool UI effects<br><br>Building pixel-perfect, responsive, and delightful user experiences<br><br>Forever a student of design, accessibility, and web performance<br><br>Let's create something awesome together <br><br>LinkedIn:https://www.linkedin.com/feed/<br><br>Gmail:yoosufismail.it@gmail.com
 
 
 ## 🌐 Socials:
